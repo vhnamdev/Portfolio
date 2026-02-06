@@ -27,7 +27,7 @@ export const eduCards = [
   {
     title: "Bachelor's Degree in Computer Science",
     institution: "Greenwich University, Danang Campus",
-    img: "/images/bachelor.jpg",
+    img: "",
     duration: "2021 - 2025",
   },
   {
@@ -78,21 +78,25 @@ export const projects = [
   {
     img: "/images/project1.png",
     title: "B4B Platform",
+    url: " https://b4book.onrender.com",
     desc: "An online platform that allows users to buy and sell books seamlessly — connecting book lovers within a vibrant community.",
   },
   {
     img: "/images/project2.png",
     title: "ETutor",
+    url: "https://youtu.be/b_VQIL91RlE",
     desc: "A personalized online learning platform where students can connect with private tutors for 1-on-1 sessions.",
   },
   {
     img: "/images/project3.jpg",
     title: "YSoul Website",
+    url: "https://youtu.be/HSHkH0DgBUQ",
     desc: "An entertainment platform website that provides users with access to a wide range of movies, music, and social media.",
   },
   {
     img: "/images/project4.jpg",
     title: "YSoul Mobile",
+    url: "https://youtu.be/4DI11WoznZA",
     desc: "An entertainment platform website that provides users with access to a wide range of movies, music.",
   },
   {

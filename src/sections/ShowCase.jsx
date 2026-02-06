@@ -36,11 +36,13 @@ const ShowCase = () => {
           {projects.map((project, index) => (
             <SwiperSlide key={index}>
               <div className="bg-zinc-900/80 rounded-xl p-4 shadow-lg flex flex-col items-center text-center hover:scale-105 transition-transform duration-300">
-                <img
-                  src={project.img}
-                  alt={project.title}
-                  className="rounded-lg mb-4 w-full h-56 object-cover"
-                />
+                <a href={project.url} target="_blank" rel="noopener noreferrer">
+                  <img
+                    src={project.img}
+                    alt={project.title}
+                    className="rounded-lg mb-4 w-full h-56 object-cover"
+                  />
+                </a>
                 <h3 className="text-2xl text-white font-semibold mb-2">
                   {project.title}
                 </h3>

@@ -1,6 +1,5 @@
 import React from "react";
 import TitleHeader from "../components/TitleHeader";
-import GlowCard from "../components/GlowCard";
 import { experiences } from "../constants";
 
 const Experience = () => {
