@@ -11,8 +11,8 @@ export const words = [
 
 export const counterItems = [
   { value: 2, label: "Years of Experience" },
-  { value: 3.95, label: "GPA" },
-  { value: 800, label: "Toiec Score" },
+  { value: "First Class", label: "Honours" },
+  { value: 795, label: "Toiec Score" },
 ];
 
 export const navLinks = [
