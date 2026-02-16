@@ -11,7 +11,7 @@ export const words = [
 
 export const counterItems = [
   { value: 2, label: "Years of Experience" },
-  { value: "First Class", label: "Honours" },
+  { value: 3, label: "Honours" },
   { value: 795, label: "Toiec Score" },
 ];
 
