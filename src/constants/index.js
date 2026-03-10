@@ -67,7 +67,7 @@ export const experiences = [
   {
     company: "I.A Lab",
     position: "AI Internship",
-    duration: "Oct 2025 – Dec 2025",
+    duration: "Oct 2025 – March 2026",
     description:
       "Worked on AI projects involving machine learning models and data analysis using Python and TensorFlow.",
     img: "/images/ialab.png",
